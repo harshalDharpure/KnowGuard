@@ -1,0 +1,8 @@
+{
+  "acc": 0.6,
+  "acc_pct": 60.0,
+  "turns": 10.85,
+  "n": 20,
+  "n_correct": 12,
+  "file": "results/KnowGuardExpert_nemotron_ultra_smoke20.jsonl"
+}

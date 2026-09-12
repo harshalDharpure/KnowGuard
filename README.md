@@ -3,6 +3,8 @@
 Interactive clinical QA (KnowGuard / ICLR 2026).  
 Paper: [arXiv:2509.24816](https://arxiv.org/abs/2509.24816)
 
+**Full experiment guide (paths, flow diagram, what we generate vs MedQA, smoke20 results):** see [`EXPERIMENT_GUIDE.md`](EXPERIMENT_GUIDE.md).
+
 ## What this repo has
 
 - Runnable KnowGuard eval (`Open_benchmark.py`)
